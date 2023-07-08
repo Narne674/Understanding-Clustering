@@ -1,2 +1,2 @@
 # Understanding-Clustering
-An Intuitive approach in Understanding K - Means Clustering
+An Intuitive Approach to Understanding K - Means Clustering
